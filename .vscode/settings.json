@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.luau": "lua",
-        "cmath": "c",
-        "random": "c",
-        "stdbool.h": "c"
-    }
-}
