@@ -15,4 +15,5 @@
 - [Âß¼­ÔËËã·û](Tutorials/logic_opreations)
 - [scanf](Tutorials/scanf/)
 - [while](Tutorials/while/)
+- [for](Tutorials/for_loop/)
 </details>
