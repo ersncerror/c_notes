@@ -1,16 +1,18 @@
 # c_notes
-ä¸ªäººå­¦ä¹ cè¯­è¨€ä¿å­˜çš„ç¬”è®°ï¼ˆå¯èƒ½æ··æ‚ç€é”™è¯¯çš„ä¿¡æ¯idkï¼‰
+¸öÈËÓÃÀ´¼ÇÂ¼Ñ§Ï°CÓïÑÔµÄ±Ê¼Ç¡£
 
 <details>
 
-<summary> ç¬”è®°åˆ—è¡¨ </summary>
+<summary> ÁĞ±í </summary>
 
-- [printf](Tutorials/printf)ï¼ˆæš‚æ—¶æ— ç¬”è®°ï¼Œæˆ‘å¿˜äº†ï¼‰
-- [å˜é‡](Tutorials/variables)ï¼ˆæš‚æ—¶æ— ç¬”è®°ï¼Œæˆ‘å¿˜äº†ï¼‰
+- [printf](Tutorials/printf)£¨Íü¼ÇĞ´ÁË£©
+- [±äÁ¿](Tutorials/variables)£¨Íü¼ÇĞ´ÁË£©
 - [char](Tutorials/char)
 - [float](Tutorials/float)
-- [å¸¸é‡](Tutorials/constants)
-- [æ³¨é‡Š](Tutorials/comments)
-- [æ¡ä»¶è¯­å¥ if,else,switch](Tutorials/conditional_statement)
-- [é€»è¾‘è¿ç®—ç¬¦](Tutorials/logic_opreations)
+- [³£Á¿](Tutorials/constants)
+- [×¢ÊÍ](Tutorials/comments)
+- [Ìõ¼şÓï¾ä if,else,switch](Tutorials/conditional_statement)
+- [Âß¼­ÔËËã·û](Tutorials/logic_opreations)
+- [scanf](Tutorials/scanf/)
+- [while](Tutorials/while/)
 </details>
