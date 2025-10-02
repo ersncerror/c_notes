@@ -16,7 +16,7 @@ int main()
         }
     };
 
-    printf("1µ½100ÖĞËùÓĞÅ¼ÊıµÄºÍÎª: %d \n", summary);
+    printf("1åˆ°100çš„æ‰€æœ‰å¶æ•°çš„å’Œ: %d \n", summary);
 
     n = 1;
     summary = 0;

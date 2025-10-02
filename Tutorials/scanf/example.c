@@ -5,9 +5,9 @@ int main()
     char category;
     float price;
 
-    printf("ÇëÊäÈëÉÌÆ·Àà±ğ, A=µçÆ÷, B=ÒÂ·ş\n");
+    printf("è¯·è¾“å…¥å•†å“ç±»åˆ«, A=ç”µå™¨, B=è¡£æœ\n");
     scanf("%c", &category);
-    printf("ÇëÊäÈëÉÌÆ·¼Û¸ñ\n");
+    printf("è¯·è¾“å…¥å•†å“ä»·æ ¼\n");
     scanf(" %f", &price);
 
     switch (category)
