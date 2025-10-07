@@ -18,4 +18,5 @@
 - [for](Tutorials/for_loop/)
 - [数组](Tutorials/array/)
 - [字符串](Tutorials/string/)
+- [指针](Tutorials/pointer/)
 </details>
