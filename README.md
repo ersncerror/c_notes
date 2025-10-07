@@ -17,4 +17,5 @@
 - [while](Tutorials/while/)
 - [for](Tutorials/for_loop/)
 - [数组](Tutorials/array/)
+- [字符串](Tutorials/string/)
 </details>
