@@ -5,10 +5,11 @@
 
 <summary> 列表 </summary>
 
-- [printf](Tutorials/printf)（我忘记写了）
-- [变量](Tutorials/variables)（我忘记写了）
-- [char](Tutorials/char)
-- [float](Tutorials/float)
+- [基础知识](Tutorials/basic_knowledge.md)
+- [include](Tutorials/include.md)
+- [变量](Tutorials/variables)
+- [int和char](Tutorials/intAndChar)
+- [float和double](Tutorials/floatAndDouble)
 - [常量](Tutorials/constants)
 - [注释](Tutorials/comments)
 - [条件语句 if,else,switch](Tutorials/conditional_statement)
