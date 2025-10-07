@@ -1,19 +1,20 @@
 # c_notes
-¸öÈËÓÃÀ´¼ÇÂ¼Ñ§Ï°CÓïÑÔµÄ±Ê¼Ç¡£
+ä¸ªäººç¬”è®°ã€‚
 
 <details>
 
-<summary> ÁĞ±í </summary>
+<summary> åˆ—è¡¨ </summary>
 
-- [printf](Tutorials/printf)£¨Íü¼ÇĞ´ÁË£©
-- [±äÁ¿](Tutorials/variables)£¨Íü¼ÇĞ´ÁË£©
+- [printf](Tutorials/printf)ï¼ˆæˆ‘å¿˜è®°å†™äº†ï¼‰
+- [å˜é‡](Tutorials/variables)ï¼ˆæˆ‘å¿˜è®°å†™äº†ï¼‰
 - [char](Tutorials/char)
 - [float](Tutorials/float)
-- [³£Á¿](Tutorials/constants)
-- [×¢ÊÍ](Tutorials/comments)
-- [Ìõ¼şÓï¾ä if,else,switch](Tutorials/conditional_statement)
-- [Âß¼­ÔËËã·û](Tutorials/logic_opreations)
+- [å¸¸é‡](Tutorials/constants)
+- [æ³¨é‡Š](Tutorials/comments)
+- [æ¡ä»¶è¯­å¥ if,else,switch](Tutorials/conditional_statement)
+- [é€»è¾‘æ“ä½œç¬¦](Tutorials/logic_opreations)
 - [scanf](Tutorials/scanf/)
 - [while](Tutorials/while/)
 - [for](Tutorials/for_loop/)
+- [æ•°ç»„](Tutorials/array/)
 </details>
